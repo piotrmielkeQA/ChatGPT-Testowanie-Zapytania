@@ -1,0 +1,5 @@
+Przykładowe zapytania: 
+
+1. Jestem testerem oprogramowania i pracuję nad projektem aplikacji bankowej napisanej w bibliotece React. Jakie narzędzia przydały by się do testów? 
+2. Chcę zautomatyzować moją aplikacj. Jaka jest najlepsza biblioteka dla mnie w tym przypadku i dlaczego?
+3. Czy w tej bibliotece też mogę automatyzować testy API?

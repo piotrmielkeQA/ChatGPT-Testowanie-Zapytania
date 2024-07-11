@@ -1,0 +1,4 @@
+Przykładowe zapytania: 
+
+1. Jestem testerem oprogramowania i potrzebuje wygnerować scenariusz Given, When, Then dla tego kryteria akceptacyjnego "Po zalogwaniu się na stronie sklepu, użytkownik zostaje przekierowany do tryby edycji danych kontaktowych". 
+2. Wygeneruj mi więcej scenariuszy. 

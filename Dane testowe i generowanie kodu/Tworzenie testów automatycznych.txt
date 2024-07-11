@@ -1,0 +1,9 @@
+Przykładowe zapytania: 
+
+1. Napisz mi testy automatyczne napisane w języku JavaScript i bibliotece Cypress dla poniższego scenariusza z uwzględnieniem języka Cumcumber:
+
+Scenario: Przekierowanie użytkownika do trybu edycji danych kontaktowych
+    Given: Uzytkownik jest zalogowany na stronie sklepu
+    When: Użytkownik kliknie na opcję edycji danych kontaktowych
+    Then: Użytkownik zostaje przekierowany do tryby edycji danych kontaktowych. 
+

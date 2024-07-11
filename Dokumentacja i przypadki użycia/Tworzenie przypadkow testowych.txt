@@ -1,0 +1,4 @@
+Przykładowe zapytania: 
+
+1. Wygeneruj mi przypadki testowe dla wcześniej wygenerowanych kryteriów akceptacyjnych
+2. Wygeneruj mi więcej przypadków testowych, które obejmują negatywne scenariusze. 

@@ -1,0 +1,7 @@
+Przykładowe zapytania: 
+
+1. Jestem testerem oprogramowania i potrzebuje napisać plan testów. Co powinien zawierać plan testów? 
+2. Pracuje w sektorze finansowym i moja aplikacja działa na AWS. Potrzebuje, aby moja aplikacja była aktywna w 99,99%. Zaktualizuj mi test plan w oparciu o to.
+3. Dodaj więcej opcji przy Szkolenie zespołu. 
+4. Jaki jest najlepszy szablon dla raportowania defektów? 
+5. Wygenerujesz mi przykład jakiegoś defektu z błędem, który dodam do mojej dokumentacji?

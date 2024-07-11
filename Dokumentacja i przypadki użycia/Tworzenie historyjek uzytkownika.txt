@@ -1,0 +1,7 @@
+Przykładowe zapytania: 
+
+1. Mam taką historię: "Jako klient chcę móc zalogować się na stronie sklepu i móc edytować swoje dane kontaktowe" i chcę ja ponownie przedstawić w formie "jak", "wtedy", aby sformatować i dodać przypadki użycia lub najlepsze praktyki branżowe. 
+2. Dodaj do tej historyjki kryteria akceptacyjne. 
+3. Dodaj więcej kryteriów akceptacyjnych.
+4. Co uważasz o niefunkcjonalnych aspektach dla mojego  scenariusza?
+5. Przygotujesz mi jeszcze kilka niefuncjonalnych aspektów dla tego scenariusza? 

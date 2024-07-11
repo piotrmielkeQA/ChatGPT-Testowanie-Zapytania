@@ -1,0 +1,6 @@
+Przykładowe zapytania: 
+
+1. Co to jest testowanie funkcjonalne? 
+2. Rowziń nam bardziej pojęcie Ocena zgodności z wymaganiami
+3. Co to jest testowanie niefunkcjonalne i dlatego jest niezbędne?
+
