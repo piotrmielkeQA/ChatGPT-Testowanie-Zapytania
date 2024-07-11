@@ -1,0 +1,7 @@
+Przykładowe zapytania: 
+
+1. Jakie jest najbardziej popularne narzędzie do konteneryzacji dedykowane pod CI/CD?
+
+2. Chciałbym uruchomić moją kolekcję w Postmanie w Dockerze. Pomożesz mi stworzyć plik?
+
+3. Wszystko działa, ale czy mogę jakoś zapisać rezultat testów do pliku?

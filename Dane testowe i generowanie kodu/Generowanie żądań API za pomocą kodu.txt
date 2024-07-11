@@ -1,0 +1,6 @@
+Przykładowe zapytanie: 
+
+1. Mam endpoint wyświetlający mi posty: https://jsonplaceholder.typicode.com/posts.
+Czy dasz radę napisać testy automatyczne API w Cypress - sprawdzający czy kod odpowiedzi jest równy 200?
+2. Napisz mi dla tego endpointa posts kod w cypress, który doda przykładowy post i sprawdzi czy jest poprawny kod odpowiedzi?
+3. Przystosujesz mi te testy pod narzędzie Postman?

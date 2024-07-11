@@ -1,0 +1,11 @@
+Przykłady na podstawie strony: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+
+1. Mam tabele o nazwie Customers i posiada ona następujące kolumny: 
+
+CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country
+
+
+2. Pokaż mi wszystkie rekordy dla których City jest równy Berlin.
+
+3. Zrób mi zapytanie, które pokażę wszystkie rekordy w kolejności rosnącej.
+
